@@ -1,6 +1,12 @@
-<h1 align="center"> 📦 boxwaya 🔌 </h1>
-
-> boxwaya is s a node graph structure processing pipeline creator library for Rust 
+<br />
+<div align="center">
+  <img src="./boxwaya_banner.svg" alt="boxwaya">
+  <p>
+    <strong>
+      Powerful node graph pipeline builder library
+    </strong>
+  </p>
+</div>
 
 ## Introduction
 
